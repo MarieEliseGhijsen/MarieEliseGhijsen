@@ -9,6 +9,8 @@ I was responsible for programming the SUPERMECH enemy AI and gameplay systems. I
 
 This project gave me valuable hands-on experience with C, game AI, finite state machines, physics and collision detection, while working as part of a multidisciplinary team under a six-week time constraint of the competition.
 
+<img width="1264" height="838" alt="image" src="https://github.com/user-attachments/assets/d143f4bd-4a0e-484e-94bc-9b0670caa922" />
+
 ### Robocode BigMack
 [GitHub Repositery](https://github.com/KevinMichael4441/roboCodeProgress)
 
@@ -17,6 +19,8 @@ For the national RoboCode competition at Games Fleadh 2025 I worked with two tea
 I was mainly responsible for the radar and scanning system. I implemented the logic for initially locating both the sentry and opposing robot, while making sure BigMack could return its radar to the opponent if it was detected first. Once the opponent was located, I implemented a radar wobble that alternated between directions to keep scanning around the opponent's last known position and help maintain a lock if the radar lost track of them.
 
 Working on BigMack gave me my first experience developing a real-time scanning and tracking system in Java, while also teaching me how different parts of a larger robot AI can work together. It was a great introduction to working as part of a team on a competitive programming project.
+
+<img width="1225" height="919" alt="image" src="https://github.com/user-attachments/assets/e2ef5c50-8954-4921-b53c-f1d308398e1f" />
 
 ### Battles-Ahoy!
 [GitHub Repositery](https://github.com/MarieEliseGhijsen/Battles-Ahoy--ASSEMBLY_PROJECT)
@@ -46,3 +50,5 @@ My main contribution was creating assets for the game's rooms, objects and tools
 This project gave me experience working across both the visual and programming sides of game development, while also giving me more experience collaborating with a team to bring a complete game together.
 
 [Short Gameplay Video](https://www.youtube.com/watch?v=Lpe4zJwd1KQ)
+
+<img width="826" height="661" alt="image" src="https://github.com/user-attachments/assets/b87baead-3769-41d4-850d-687dd7b0cd0c" />
