@@ -31,6 +31,8 @@ I designed and implemented the complete game, including the board system, ship p
 
 This project gave me practical experience working with Assembly and low-level program flow, while also challenging me to build a complete playable game without higher-level abstractions.
 
+<img width="489" height="592" alt="image" src="https://github.com/user-attachments/assets/e85d6c31-3677-4730-b5e3-7958cbe3703a" />
+
 ### Rat Pack
 [GitHub Repositery](https://github.com/Naoise-Ryan/Rat-Pack)
 
