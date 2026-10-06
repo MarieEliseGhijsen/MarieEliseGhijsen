@@ -11,6 +11,8 @@ This project gave me valuable hands-on experience with C, game AI, finite state 
 
 <img width="1264" height="838" alt="image" src="https://github.com/user-attachments/assets/d143f4bd-4a0e-484e-94bc-9b0670caa922" />
 
+----------------------------------
+
 ### Robocode BigMack
 [GitHub Repositery](https://github.com/KevinMichael4441/roboCodeProgress)
 
@@ -21,6 +23,8 @@ I was mainly responsible for the radar and scanning system. I implemented the lo
 Working on BigMack gave me my first experience developing a real-time scanning and tracking system in Java, while also teaching me how different parts of a larger robot AI can work together. It was a great introduction to working as part of a team on a competitive programming project.
 
 <img width="1225" height="919" alt="image" src="https://github.com/user-attachments/assets/e2ef5c50-8954-4921-b53c-f1d308398e1f" />
+
+----------------------------------
 
 ### Battles-Ahoy!
 [GitHub Repositery](https://github.com/MarieEliseGhijsen/Battles-Ahoy--ASSEMBLY_PROJECT)
@@ -33,6 +37,8 @@ This project gave me practical experience working with Assembly and low-level pr
 
 <img width="489" height="592" alt="image" src="https://github.com/user-attachments/assets/e85d6c31-3677-4730-b5e3-7958cbe3703a" />
 
+----------------------------------
+
 ### Rat Pack
 [GitHub Repositery](https://github.com/Naoise-Ryan/Rat-Pack)
 
@@ -41,6 +47,8 @@ This project was created during Global Game Jam 2026, developed over the course 
 I was responsible for the gameplay programming, while another team member handled the menu and the other members primarily focused on art. I implemented the core gameplay systems, including the player and enemy rats, movement and the mechanics for spreading the different ideologies between rats.
 
 The final game was quite rough due to the extremely short development period, and it exposed at-the-time gaps in my understanding of vectors, which we had only recently started learning in class. Despite the problems with the final product, the project was valuable experience in working under a strict deadline, dividing responsibilities within a team and learning new concepts while actively developing a game.
+
+----------------------------------
 
 ### The Ghastly Grab
 [GitHub Repositery](https://github.com/KevinMichael4441/Ghastly-Grab)
