@@ -1,6 +1,9 @@
 # Marie-Elise Ghijsen Github Portfolio
 ## A Collection of Projects I've Worked On
 ### OOZ3 | Slilab
+
+----------------------------------
+
 [GitHub Repositery](https://github.com/KevinMichael4441/Games-Fleadh)
 
 A 2D side-scrolling platformer created for Games Fleadh 2026 where it won the "Best Game Built using Software Libraries" title. The player control OOZ3, a sentient soft-body slime escaping from an outer-space research facility while avoiding the station's security systems and the powerful SUPERMECH. The game was developed in C/C++ using the [raylib](https://www.raylib.com/) library and released for Windows, Linux, Web and R36S/R36XX handheld devices.
@@ -14,6 +17,9 @@ This project gave me valuable hands-on experience with C, game AI, finite state 
 ----------------------------------
 
 ### Robocode BigMack
+
+----------------------------------
+
 [GitHub Repositery](https://github.com/KevinMichael4441/roboCodeProgress)
 
 For the national RoboCode competition at Games Fleadh 2025 I worked with two teammates to create BigMack, a battle robot, representing SETU Carlow. We competed to the finals without losing a single match.
@@ -27,6 +33,9 @@ Working on BigMack gave me my first experience developing a real-time scanning a
 ----------------------------------
 
 ### Battles-Ahoy!
+
+----------------------------------
+
 [GitHub Repositery](https://github.com/MarieEliseGhijsen/Battles-Ahoy--ASSEMBLY_PROJECT)
 
 A two-player local multiplayer Battleship game written entirely in Motorola 68000 Assembly. The project was developed as a solo project, with the game running through a simulated environment and using keyboard input for both players.
@@ -40,6 +49,9 @@ This project gave me practical experience working with Assembly and low-level pr
 ----------------------------------
 
 ### Rat Pack
+
+----------------------------------
+
 [GitHub Repositery](https://github.com/Naoise-Ryan/Rat-Pack)
 
 This project was created during Global Game Jam 2026, developed over the course of a single weekend, as part of a team made up of students from different year groups and with varying levels of experience. The theme, 'Mask', inspired the idea of a top-down game, in C++ using the [SFML](https://www.sfml-dev.org/) library, where rats spread their 'ideology', represented by different coloured masks, to the other rats. The goal being to infect all of the neutral rats with your ideology before the opposing masked rat could do the same.
@@ -51,6 +63,9 @@ The final game was quite rough due to the extremely short development period, an
 ----------------------------------
 
 ### The Ghastly Grab
+
+----------------------------------
+
 [GitHub Repositery](https://github.com/KevinMichael4441/Ghastly-Grab)
 
 This group project was created as part of my 'Game Design' module in C++ using the [SFML](https://www.sfml-dev.org/) library. It is a 2D game in which the player takes on the role of a thief breaking into an abandoned haunted house. The goal is to collect all the valuable items and escape before the scare meter reaches its limit, with tools scattered throughout the house to help the player progress.
